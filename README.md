@@ -14,3 +14,7 @@ Some checks you can make on your own:
 - Does your script train a neural network on the assigned data?
 - Did your script save your model?
 - Do you have separate code to import your model for use after training?
+
+  ************ MODEL **********
+  Model is too large to upload in github, I am adding the google drive link to access it https://drive.google.com/file/d/10bQv0YqPzNNMC2clDpcIbVm5SasAglh-/view?usp=drive_link
+  please use this 
